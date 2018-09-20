@@ -1,0 +1,28 @@
+_repo: Old-Europe-s-Suicide-or-The-Building-of-a-Pyramid-of-Errors-An-Account-of-Certain-Events-in-E__53464
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomson, Christopher Birdwood, Baron
+    birthdate: 1875
+    deathdate: 1930
+    gutenberg_agent_id: '47388'
+    url: http://www.gutenberg.org/2009/agents/47388
+description: ''
+gutenberg_issued: '2016-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53464'
+  lccn: '22009402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Balkan Peninsula -- History -- War of 1912-1913'
+- !lcsh 'Eastern question (Balkan)'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+title: "Old Europe's Suicide; or, The Building of a Pyramid of Errors\r\nAn Account\
+  \ of Certain Events in Europe During the Period 1912–1919"
+url: http://www.gutenberg.org/ebooks/53464
